@@ -30,6 +30,17 @@ Study materials for the elective course taken in Year 2, Semester 2 of the 6-yea
 | [`study_guides/07_media_and_sexuality.md`](COMM_1131/study_guides/07_media_and_sexuality.md) | Cultivation Theory, Sexual Script Theory, Objectification Theory, representation, pornography, social media |
 | [`study_guides/08_diversity_and_intersectionality.md`](COMM_1131/study_guides/08_diversity_and_intersectionality.md) | Intersectionality, cultural variation, race and sexuality, disability, religion, age, trauma-informed care, LGBTQ+ health disparities |
 
+
+#### Exam-Specific Cram Resources
+
+| Resource | Contents |
+|---|---|
+| [`exam3_cram/01_high_yield_one_pager.md`](COMM_1131/exam3_cram/01_high_yield_one_pager.md) | One-page high-yield terms, traps, mnemonics, and test strategy |
+| [`exam3_cram/02_visual_maps_and_audio_drill.md`](COMM_1131/exam3_cram/02_visual_maps_and_audio_drill.md) | Text concept map + 7-minute read-aloud drill + whiteboard dump prompt |
+| [`exam3_cram/03_rapid_mcq_35.md`](COMM_1131/exam3_cram/03_rapid_mcq_35.md) | 35-question rapid MCQ set with answer key |
+
+---
+
 #### Flashcards
 
 | Flashcard Set | Contents |
